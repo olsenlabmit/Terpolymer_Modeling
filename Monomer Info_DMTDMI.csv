@@ -1,0 +1,37 @@
+Carboxylic Acid or Diol,MW,Melting Point (Celcius)-chemspider,"Boiling Point (Celcius)- chemspider,760mmHg",SMILES,Polymer Name Abbr.,SMILES for Bigsmiles,,SMILES_Monomers,Backbone length
+Dimethyl Terephthalate,194.18,142,,COC(=O)c(cc1)ccc1C(=O)OC,DMT,[<]C(=O)c1ccc(cc1)C(=O)[<],,C(=O)c(cc1)ccc1C(=O),6
+diglycolic acid,134.09,140,445,OC(=O)COCC(=O)O,DGA,[<]C(=O)COCC(=O)[<],,C(=O)COCC(=O),5
+Dimethyl Isophthalate,194.18,67.5,282,COC(=O)c(ccc1)cc1C(=O)OC,DMI,[<]C(=O)c(ccc1)cc1C(=O)[<],,C(=O)c(ccc1)cc1C(=O),6
+sebacic acid,202.25,131,374,OC(=O)CCCCCCCCC(=O)O,SBA,[<]C(=O)CCCCCCCCC(=O)[<],,C(=O)CCCCCCCCC(=O),10
+succinic acid,118.09,184,235,OC(=O)CCC(=O)O,SCA,[<]C(=O)CCC(=O)[<],,C(=O)CCC(=O),4
+adipic acid,146.14,153,365,OC(=O)CCCCC(=O)O,ADA,[<]C(=O)CCCCC(=O)[<],,C(=O)CCCCC(=O),6
+azelaic acid,188.22,109,390,OC(=O)CCCCCCCC(=O)O,AZA,[<]C(=O)CCCCCCCC(=O)[<],,C(=O)CCCCCCCC(=O),9
+suberic acid,174.2,140,410,OC(=O)CCCCCCC(=O)O,SUA,[<]C(=O)CCCCCCC(=O)[<],,C(=O)CCCCCCC(=O),8
+"2,2-Thiodiacetic Acid",150.14,128,377,OC(=O)CSCC(=O)O,TOA,[<]C(=O)CSCC(=O)[<],,C(=O)CSCC(=O),5
+"1,4-Cyclohexanedicarboxylic Acid",172.18,164,384.1,OC(=O)C(CC1)CCC1C(=O)O,CCD,[<]C(=O)C(CC1)CCC1C(=O)[<],,C(=O)C(CC1)CCC1C(=O),6
+Glutaric Acid,132.12,95,358,OC(=O)CCCC(=O)O,GLA,[<]C(=O)CCCC(=O)[<],,C(=O)CCCC(=O),5
+"2,2-[ethylenebis(oxy)] bisacetic acid",178.14,68,429,OC(=O)COCCOCC(=O)O,EBA,[<]C(=O)COCCOCC(=O)[<],,C(=O)COCCOCC(=O),8
+bisphenol A,228.29,155,426.7,Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O,BPA,[>]Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O[>],,Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O,11
+"2,2,4-Trimethyl-1,3-pentanediol",146.13,54,232,OCC(C)(C)C(C(C)C)O,TPD,[>]OCC(C)(C)C(C(C)C)O[>],,OCC(C)(C)C(C(C)C)O,5
+"2,2-Dimethyl-1,3-propanediol",104.148,122,210,OCC(C)(C)CO,DMD,[>]OCC(C)(C)CO[>],,OCC(C)(C)CO,5
+"2,3-Butanediol",90.121,19,183,OC(C)C(C)O,BTD,[>]OC(C)C(C)O[>],,OC(C)C(C)O,4
+"1,8-octanediol",146.227,57,322,OCCCCCCCCO,OTD,[>]OCCCCCCCCO[>],,OCCCCCCCCO,10
+"1,9-nonanediol",160.25,45,288,OCCCCCCCCCO,NND,[>]OCCCCCCCCCO[>],,OCCCCCCCCCO,11
+"1,10-decanediol",174.28,72,297,OCCCCCCCCCCO,DCD,[>]OCCCCCCCCCCO[>],,OCCCCCCCCCCO,12
+"1,4-cyclohexanediol",116.16,100,293,OC(CC1)CCC1O,CHD,[>]OC(CC1)CCC1O[>],,OC(CC1)CCC1O,6
+diethylene glycol,106.12,-10.5,245,OCCOCCO,DEG,[>]OCCOCCO[>],,OCCOCCO,7
+triethylene glycol,150.17,-7,284,OCCOCCOCCO,TEG,[>]OCCOCCOCCO[>],,OCCOCCOCCO,10
+Guaiacol glyceryl ether,198.22,83,380,OCC(COc1ccccc1OC)O,GGE,[>]OCC(COc1ccccc1OC)O[>],,OCC(COc1ccccc1OC)O,4
+"2,2-Diethyl-1,3-propanediol",132.2,60,240,OCC(CC)(CC)CO,DPD,[>]OCC(CC)(CC)CO[>],,OCC(CC)(CC)CO,5
+"3-methyl-1,5-pentanediol",118.17,-60,284,OCCC(C)CCO,MPD,[>]OCCC(C)CCO[>],,OCCC(C)CCO,7
+tripropylene glycol,192.25,-45,268,OC(C)COC(C)COC(C)CO,TPG,[>]OC(C)COC(C)COC(C)CO[>],,OC(C)COC(C)COC(C)CO,10
+"1,3-propanediol",76.09,-27,214,OCCCO,PPD,[>]OCCCO[>],,OCCCO,5
+"1,5-pentanediol",104.148,-18,241,OCCCCCO,PTD,[>]OCCCCCO[>],,OCCCCCO,7
+dipropylene glycol,134.173,-60,231,OCC(C)OCC(C)O,DPG,[>]OC(C)COCC(C)O[>],,OCC(C)OCC(C)O,8
+"1,4-butanediol",90.121,20.1,229,OCCCCO,BND,[>]OCCCCO[>],,OCCCCO,6
+"1,6-hexanediol",118.17,42,250,OCCCCCCO,HND,[>]OCCCCCCO[>],,OCCCCCCO,8
+"2-Methyl-1,3-propanediol",90.12,-91,123,OCC(C)CO,MRD,[>]OCC(C)CO[>],,OCC(C)CO,5
+"2-Butyl-2-ethyl-1,3-propanediol",160.25,43,292,OCC(CC)(CCCC)CO,BED,[>]OCC(CC)(CCCC)CO[>],,OCC(CC)(CCCC)CO,5
+Ethylene Glycol,62.07,-37,198,OCCO,ETG,[>]OCCO[>],,OCCO,4
+"1,2-propanediol",76.09,-59,188,OCC(C)O,PRD,[>]OCC(C)O[>],,OCC(C)O,4
+"1,4-Cyclohexanedimethanol",144.21,31.5,283,OCC(CC1)CCC1CO,CHM,[>]OCC(CC1)CCC1CO[>],,OCC(CC1)CCC1CO,8
