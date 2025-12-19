@@ -8,6 +8,7 @@ GPC/SEC Traces -found in GPC when available. Subfolders are indicative of solven
 
 H1 NMR Files analyzed for composition - found in NMR- available as mnova files.
 
+Description of Code Files for Machine Learning
 Polymer_Similarity.py file contains function definitions from https://github.com/shijiale0609/PolymerEmbedding_EMD for chemical similarity-informed embedding used to generate chemical representations of the polymers
 
 Terpolymer_ML.ipynb:
@@ -26,3 +27,4 @@ Terpolymer_Modeling.ipynb and Terpolymer_Modeling_Updated.ipynb
   -carries out polymer similarity embedding calculations for each landscape used in model training
   -performs retraining of optimized models with increasing amounts of terpolymer data
   -performs updating of optimized models with increasing amounts of terpolymer data
+  -extracts feature analysis from optimized models
