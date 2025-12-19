@@ -1,4 +1,9 @@
-Machine Learning Repository for Terpolymer augmentation of a binary copolymer library
+Repository for supplementary data and Machine Learning for Structure-Property Relationships for Biodegradability in Copolyesters
+
+Available Supplementary Data:
+OD/OD0 plots - found in Biodegradability-OD-Plots
+GPC/SEC Traces -found in GPC when available. Subfolders are indicative of solvent system and GPC used for analysis as described in the methods of the published work.
+H1 NMR Files analyzed for composition - found in NMR- available as mnova files.
 
 Polymer_Similarity.py file contains function definitions from https://github.com/shijiale0609/PolymerEmbedding_EMD for chemical similarity-informed embedding used to generate chemical representations of the polymers
 
