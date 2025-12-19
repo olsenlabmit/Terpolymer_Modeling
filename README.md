@@ -12,7 +12,7 @@ Terpolymer_ML.ipynb:
 Model_Optimizations.py:
   - carries out polymer embedding calculations and model optimzations using multiprocessing. The same optimizations are can be carried out in Terpolymer_ML.ipynb
 
-Terpolymer_Modeling.ipynb
+Terpolymer_Modeling.ipynb and Terpolymer_Modeling_Updated.ipynb
   -uses optimized models from original library optimization and reduced library optimization for augmenation with terpolymer data
   -generates splits for the terpolymer library
   -carries out polymer similarity embedding calculations for each landscape used in model training
