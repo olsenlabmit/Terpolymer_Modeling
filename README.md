@@ -27,4 +27,12 @@ Terpolymer_Modeling.ipynb and Terpolymer_Modeling_Updated.ipynb
   -carries out polymer similarity embedding calculations for each landscape used in model training
   -performs retraining of optimized models with increasing amounts of terpolymer data
   -performs updating of optimized models with increasing amounts of terpolymer data
+
+  Modeling_Revisions.ipynb
+  - used for published modeling results.
+  -uses optimized models from original library optimization and reduced library optimization for augmenation with terpolymer data
+  -generates splits for the terpolymer library
+  -carries out polymer similarity embedding calculations for each landscape used in model training
+  -performs retraining of optimized models with increasing amounts of terpolymer data
+  -performs updating of optimized models with increasing amounts of terpolymer data
   -extracts feature analysis from optimized models
