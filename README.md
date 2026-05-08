@@ -12,8 +12,8 @@ Description of Code Files for Machine Learning
 Polymer_Similarity.py file contains function definitions from https://github.com/shijiale0609/PolymerEmbedding_EMD for chemical similarity-informed embedding used to generate chemical representations of the polymers
 
 Terpolymer_ML.ipynb:
-  -converts bipolymer library splits used in https://doi.org/10.1073/pnas.2220021120 to usable forms for new polymer similarity embedding 
-  - generates splits for the reduced original library
+  -converts original library splits used in https://doi.org/10.1073/pnas.2220021120 to usable forms for new polymer similarity embedding 
+  - generates splits for the homopolymer library
   - defines functions for optimizing sckikit-learn Random Forest Classifier Optimization and SDG_Classifier Optimization
   - implements optimization
   - Note: all optimization models are saved as .pkl files
@@ -22,17 +22,22 @@ Model_Optimizations.py:
   - carries out polymer embedding calculations and model optimzations using multiprocessing. The same optimizations are can be carried out in Terpolymer_ML.ipynb
 
 Terpolymer_Modeling.ipynb and Terpolymer_Modeling_Updated.ipynb
-  -uses optimized models from original library optimization and reduced library optimization for augmenation with terpolymer data
-  -generates splits for the terpolymer library
+  -uses optimized models from original library optimization and homopolymer library optimization for augmenation with copolymer data
+  -generates splits for the copolymer library
   -carries out polymer similarity embedding calculations for each landscape used in model training
-  -performs retraining of optimized models with increasing amounts of terpolymer data
-  -performs updating of optimized models with increasing amounts of terpolymer data
+  -performs retraining of optimized models with increasing amounts of copolymer data
+  -performs updating of optimized models with increasing amounts of copolymer data
 
   Modeling_Revisions.ipynb
   - used for published modeling results.
-  -uses optimized models from original library optimization and reduced library optimization for augmenation with terpolymer data
-  -generates splits for the terpolymer library
+  -uses optimized models from original library optimization and homopolymer library optimization for augmenation with copolymer data
+  -generates splits for the copolymer library
   -carries out polymer similarity embedding calculations for each landscape used in model training
   -performs retraining of optimized models with increasing amounts of terpolymer data
   -performs updating of optimized models with increasing amounts of terpolymer data
   -extracts feature analysis from optimized models
+
+Chemical_extensibility.ipynb
+-used for testing extrapolation of models to unseen chemical functionalities
+-splits data based on if polymers contain specified chemical functionality into train (does not contain) and test (does contain)
+-trains and evaluates models with optimized model hyperparameters determined in Modeling_Revisions.ipynb
