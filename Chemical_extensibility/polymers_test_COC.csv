@@ -1,0 +1,226 @@
+,SMILES LIST,Ratio List,Biodegradability
+0,"['C(=O)c(cc1)ccc1C(=O)', 'OC(C)COC(C)COC(C)CO']","[1, 1]",1
+1,"['C(=O)COCC(=O)', 'OCCCCCCCCCO']","[1, 1]",1
+2,"['C(=O)COCC(=O)', 'Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O']","[1, 1]",1
+3,"['C(=O)COCC(=O)', 'OCC(C)CO']","[1, 1]",1
+4,"['C(=O)CCCCCC(=O)', 'OCCOCCO']","[1, 1]",1
+5,"['C(=O)C(CC1)CCC1C(=O)', 'OCCOCCO']","[1, 1]",1
+6,"['C(=O)c(ccc1c2)cc1ccc2C(=O)', 'OCCOCCO']","[1, 1]",0
+7,"['C(=O)C(CC1)CCC1C(=O)', 'OC(C)COC(C)COC(C)CO']","[1, 1]",1
+8,"['C(=O)c(ccc1c2)cc1ccc2C(=O)', 'OCC(C)OCC(C)O']","[1, 1]",1
+9,"['C(=O)CCCCC(=O)', 'OCC(C)OCC(C)O']","[1, 1]",1
+10,"['C(=O)COCCOCC(=O)', 'OC(CC1)CCC1C(C)(C)C(CC2)CCC2O']","[1, 1]",1
+11,"['C(=O)COC(=O)CO', 'C(=O)CCCCC(CCCC)O']","[2, 1]",1
+12,"['C(=O)COC(=O)CO', 'C(=O)CCCCCCCCCCCCCCO']","[2, 1]",1
+13,"['C(=O)COC(=O)CO', 'C(=O)C=Cc(cccc1)c1O']","[2, 1]",1
+14,"['C(=O)COC(=O)CO', 'C(=O)CCO']","[2, 1]",0
+15,"['C(=O)c(cc1)ccc1C(=O)', 'OCCOCCO']","[1, 1]",0
+16,"['C(=O)c(cc1)ccc1C(=O)', 'OCCOCCOCCO']","[1, 1]",0
+17,"['C(=O)COCC(=O)', 'OCCCCCCCCCCO']","[1, 1]",1
+18,"['C(=O)COCC(=O)', 'OCCCO']","[1, 1]",1
+19,"['C(=O)COCC(=O)', 'OCCCCCCO']","[1, 1]",1
+20,"['C(=O)CCCCCCCC(=O)', 'OCCOCCO']","[1, 1]",1
+21,"['C(=O)CCCCCCC(=O)', 'OCCOCCO']","[1, 1]",1
+22,"['C(=O)CCCCCCCCC(=O)', 'OCCOCCOCCO']","[1, 1]",1
+23,"['C(=O)CSCC(=O)', 'OCCOCCOCCO']","[1, 1]",1
+24,"['C(=O)CCCCCCC(=O)', 'OCCOCCOCCO']","[1, 1]",1
+25,"['C(=O)CCCCCCC(=O)', 'OC(C)COC(C)COC(C)CO']","[1, 1]",1
+26,"['C(=O)CCC(=O)', 'OC(C)COC(C)COC(C)CO']","[1, 1]",1
+27,"['C(=O)C(CC1)CCC1C(=O)', 'OCC(C)OCC(C)O']","[1, 1]",1
+28,"['C(=O)CCCC(=O)', 'OCC(C)OCC(C)O']","[1, 1]",1
+29,"['C(=O)CSCC(=O)', 'OCC(C)OCC(C)O']","[1, 1]",1
+30,"['C(=O)CC(=O)', 'OCC(C)OCC(C)O']","[1, 1]",1
+31,"['C(=O)COCCOCC(=O)', 'OC(CS1)SCC1O']","[1, 1]",0
+32,"['C(=O)c1nc2ccccc2c(c1)C(=O)', 'OCCOCCOCCO']","[1, 1]",0
+33,"['C(=O)COCCOCC(=O)', 'OCCC(C)CCO']","[1, 1]",1
+34,"['C(=O)COCCOCC(=O)', 'OCC(CC)(CCCC)CO']","[1, 1]",1
+35,"['C(=O)COCCOCC(=O)', 'OCC(C)(C)CO']","[1, 1]",1
+36,"['C(=O)COCCOCC(=O)', 'OCCCO']","[1, 1]",1
+37,"['C(=O)COC(=O)CO', 'C(=O)C=CCC(CCCCC)O']","[2, 1]",0
+38,"['C(=O)CCCC(CCCC)O', 'C(=O)COC(=O)CO']","[2, 1]",1
+39,"['C(=O)CCCC(CCCCCCC)O', 'C(=O)COC(=O)CO']","[2, 1]",0
+40,"['C(=O)COC(=O)CO', 'C(=O)COC(=O)CO']","[2, 1]",0
+41,"['C(=O)COCC(=O)', 'OCCCCCO']","[1, 1]",1
+42,"['C(=O)COCC(=O)', 'OCC(CC)(CCCC)CO']","[1, 1]",0
+43,"['C(=O)COCC(=O)', 'OC(CC1)CCC1C(C)(C)C(CC2)CCC2O']","[1, 1]",0
+44,"['C(=O)CCCC(=O)', 'OCCOCCO']","[1, 1]",1
+45,"['C(=O)CCCCCCCC(=O)', 'OCCOCCOCCO']","[1, 1]",0
+46,"['C(=O)CCCCCC(=O)', 'OC(C)COC(C)COC(C)CO']","[1, 1]",1
+47,"['C(=O)CCCCCCCC(=O)', 'OC(C)COC(C)COC(C)CO']","[1, 1]",1
+48,"['C(=O)CSCC(=O)', 'OC(C)COC(C)COC(C)CO']","[1, 1]",1
+49,"['C(=O)CCCCCCCC(=O)', 'OCC(C)OCC(C)O']","[1, 1]",1
+50,"['C(=O)COCCOCC(=O)', 'OCCSCCO']","[1, 1]",0
+51,"['C(=O)COCC(=O)', 'OCCSCCO']","[1, 1]",1
+52,"['C(=O)COCC(=O)', 'OC(C)C(C)O']","[1, 1]",1
+53,"['C(=O)COC(=O)CO', 'C(=O)CCCC(CCCC)O']","[2, 1]",1
+54,"['C(=O)COC(=O)CO', 'C(=O)CCCC(CCCCCCC)O']","[2, 1]",1
+55,"['C(=O)COC(=O)CO', 'C(=O)CCCCCCCCCCCCCCCO']","[2, 1]",1
+56,"['C(=O)CCCCC(CCCC)O', 'C(=O)COC(=O)CO']","[2, 1]",1
+57,"['C(=O)CC(C)O', 'C(=O)COC(=O)CO']","[2, 1]",1
+58,"['C(=O)CCCCCO', 'C(=O)COC(=O)CO']","[2, 1]",1
+59,"['C(=O)CCCCO', 'C(=O)COC(=O)CO']","[2, 1]",0
+60,"['C(=O)COC(=O)CO', 'C(=O)C(C)OC(=O)C(C)O']","[2, 1]",1
+61,"['C(=O)COCC(=O)', 'OCCO']","[1, 1]",1
+62,"['C(=O)COCC(=O)', 'OCCC(C)CCO']","[1, 1]",1
+63,"['C(=O)COCC(=O)', 'OCC(CC)(CC)CO']","[1, 1]",1
+64,"['C(=O)COCC(=O)', 'Oc1cccc(c1)O']","[1, 1]",0
+65,"['C(=O)COCC(=O)', 'OCC(CC1)CCC1CO']","[1, 1]",1
+66,"['C(=O)COCC(=O)', 'OC(CO1)C2C1C(CO2)O']","[1, 1]",0
+67,"['C(=O)CCCCCCCCC(=O)', 'OCCOCCO']","[1, 1]",1
+68,"['C(=O)c(ccc1)cc1C(=O)', 'OCCOCCO']","[1, 1]",1
+69,"['C(=O)c(ccc1c2)cc1ccc2C(=O)', 'OCCOCCOCCO']","[1, 1]",0
+70,"['C(=O)CCCC(=O)', 'OC(C)COC(C)COC(C)CO']","[1, 1]",1
+71,"['C(=O)COCCOCC(=O)', 'OCC(COc1ccccc1OC)O']","[1, 1]",1
+72,"['C(=O)COCCOCC(=O)', 'OCC(C)CO']","[1, 1]",1
+73,"['C(=O)COC(=O)CO', 'C(=O)CCCC(CCCCCC)O']","[2, 1]",1
+74,"['C(=O)CCCCCCCCCCCCCCO', 'C(=O)COC(=O)CO']","[2, 1]",1
+75,"['C(=O)COCC(=O)', 'OCC(C)O']","[1, 1]",1
+76,"['C(=O)COCC(=O)', 'OCCCCO']","[1, 1]",1
+77,"['C(=O)COCC(=O)', 'OCCCCCCCCO']","[1, 1]",1
+78,"['C(=O)COCC(=O)', 'OCC(C)(C)C(C(C)C)O']","[1, 1]",0
+79,"['C(=O)COCC(=O)', 'OCC(C)(C)CO']","[1, 1]",1
+80,"['C(=O)COCC(=O)', 'OCC(CC(C1)C2C3)C1C2CC3CO']","[1, 1]",1
+81,"['C(=O)C(CC1)CCC1C(=O)', 'OCCOCCOCCO']","[1, 1]",1
+82,"['C(=O)CCCCC(=O)', 'OCCOCCOCCO']","[1, 1]",0
+83,"['C(=O)COCC(=O)', 'OC(CS1)SCC1O']","[1, 1]",0
+84,"['C(=O)c1nc2ccccc2c(c1)C(=O)', 'OC(C)COC(C)COC(C)CO']","[1, 1]",1
+85,"['C(=O)COCCOCC(=O)', 'OC(CC1)CCC1O']","[1, 1]",1
+86,"['C(=O)COCCOCC(=O)', 'OCC(C)(C)C(C(C)C)O']","[1, 1]",1
+87,"['C(=O)C=CCC(CCCCC)O', 'C(=O)COC(=O)CO']","[2, 1]",1
+88,"['C(=O)CCCC(CCCCCC)O', 'C(=O)COC(=O)CO']","[2, 1]",0
+89,"['C(=O)C=Cc(cccc1)c1O', 'C(=O)COC(=O)CO']","[2, 1]",1
+90,"['C(=O)COC(=O)CO', 'C(=O)CCCCCO']","[2, 1]",0
+91,"['C(=O)CCO', 'C(=O)COC(=O)CO']","[2, 1]",0
+92,"['C(=O)C(C)OC(=O)C(C)O', 'C(=O)COC(=O)CO']","[2, 1]",0
+93,"['C(=O)', 'OCCOCCO']","[1, 1]",1
+94,"['C(=O)', 'OCC(C)OCC(C)O']","[1, 1]",0
+95,"['C(=O)COCC(=O)', 'OCCCCCCCO']","[1, 1]",1
+96,"['C(=O)CSCC(=O)', 'OCCOCCO']","[1, 1]",1
+97,"['C(=O)CCCCC(=O)', 'OCCOCCO']","[1, 1]",1
+98,"['C(=O)CCCCCCCCC(=O)', 'OC(C)COC(C)COC(C)CO']","[1, 1]",1
+99,"['C(=O)CCCCCCCCC(=O)', 'OCC(C)OCC(C)O']","[1, 1]",1
+100,"['C(=O)COCCOCC(=O)', 'OCC(CC)(CC)CO']","[1, 1]",1
+101,"['C(=O)COCCOCC(=O)', 'OCC(CC(C1)C2C3)C1C2CC3CO']","[1, 1]",1
+102,"['C(=O)COC(=O)CO', 'C(=O)CC(C)O']","[2, 1]",1
+103,"['C(=O)CCCCCCCCCCCCCCCO', 'C(=O)COC(=O)CO']","[2, 1]",1
+104,"['C(=O)COC(=O)CO', 'C(=O)CCCCO']","[2, 1]",1
+105,"['C(=O)CCCCCCCC(=O)', 'C(=O)c(ccc1)cc1C(=O)', 'OCC(C)OCC(C)O']","[0.65, 0.35, 1.0]",1
+106,"['C(=O)COCC(=O)', 'C(=O)c(ccc1)cc1C(=O)', 'OCC(CC1)CCC1CO']","[0.6, 0.4, 1.0]",1
+107,"['C(=O)COCC(=O)', 'C(=O)c(ccc1)cc1C(=O)', 'OCC(COc1ccccc1OC)O']","[0.9, 0.1, 1.0]",1
+108,"['C(=O)COCC(=O)', 'C(=O)c(cc1)ccc1C(=O)', 'OCCO']","[0.85, 0.15, 1.0]",0
+109,"['C(=O)COCC(=O)', 'C(=O)c(cc1)ccc1C(=O)', 'OCCCCCO']","[0.55, 0.45, 1.0]",1
+110,"['C(=O)c(ccc1)cc1C(=O)', 'OCC(C)(C)CO', 'OCC(C)OCC(C)O']","[1.0, 0.35, 0.65]",1
+111,"['C(=O)c(ccc1)cc1C(=O)', 'OCC(C)OCC(C)O', 'OCCCCCCO']","[1.0, 0.45, 0.55]",0
+112,"['C(=O)c(ccc1)cc1C(=O)', 'OCCCCCO', 'OC(C)COC(C)COC(C)CO']","[1.0, 0.65, 0.35]",1
+113,"['C(=O)c(cc1)ccc1C(=O)', 'OCCOCCO', 'OCCCCCCCCCCO']","[1.0, 0.4, 0.6]",0
+114,"['C(=O)c(cc1)ccc1C(=O)', 'OCCOCCO', 'OCCOCCOCCO']","[1.0, 0.7, 0.3]",1
+115,"['C(=O)c(cc1)ccc1C(=O)', 'OCCOCCO', 'OC(C)COC(C)COC(C)CO']","[1.0, 0.5, 0.5]",1
+116,"['C(=O)c(cc1)ccc1C(=O)', 'OCCO', 'OC(C)COC(C)COC(C)CO']","[1.0, 0.55, 0.45]",0
+117,"['C(=O)c(cc1)ccc1C(=O)', 'OCC(C)O', 'OCC(C)OCC(C)O']","[1.0, 0.4, 0.6]",1
+118,"['C(=O)c(cc1)ccc1C(=O)', 'OC(C)COC(C)COC(C)CO', 'OCC(CC)(CCCC)CO']","[1.0, 0.15, 0.85]",1
+119,"['C(=O)c(cc1)ccc1C(=O)', 'OC(C)COC(C)COC(C)CO', 'Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O']","[1.0, 0.6, 0.4]",0
+120,"['C(=O)COCCOCC(=O)', 'C(=O)c(ccc1)cc1C(=O)', 'OCCCCCCO']","[0.55, 0.45, 1.0]",1
+121,"['C(=O)COCCOCC(=O)', 'C(=O)c(cc1)ccc1C(=O)', 'OC(C)COC(C)COC(C)CO']","[0.6, 0.4, 1.0]",1
+122,"['C(=O)CSCC(=O)', 'C(=O)c(cc1)ccc1C(=O)', 'OCC(C)OCC(C)O']","[0.65, 0.35, 1.0]",1
+123,"['C(=O)COCCOCC(=O)', 'OCC(C)CO', 'OCC(C)O']","[1.0, 0.8, 0.2]",1
+124,"['C(=O)COCC(=O)', 'C(=O)CCCCCCC(=O)', 'OCC(C)CO']","[0.5, 0.5, 1.0]",1
+125,"['C(=O)COCC(=O)', 'OCC(C)CO', 'OCCCCO']","[1.0, 0.55, 0.45]",1
+126,"['C(=O)CCCC(=O)', 'C(=O)COCCOCC(=O)', 'OCC(C)CO']","[0.55, 0.45, 1.0]",1
+127,"['C(=O)COCC(=O)', 'OC(C)C(C)O', 'OCC(COc1ccccc1OC)O']","[1.0, 0.6, 0.4]",1
+128,"['C(=O)C(CC1)CCC1C(=O)', 'OC(C)C(C)O', 'OC(C)COC(C)COC(C)CO']","[1.0, 0.5, 0.5]",1
+129,"['C(=O)COCC(=O)', 'OC(C)C(C)O', 'OCC(C)(C)CO']","[1.0, 0.45, 0.55]",1
+130,"['C(=O)CCCCCCCC(=O)', 'OCC(C)O', 'OC(C)COC(C)COC(C)CO']","[1.0, 0.5, 0.5]",1
+131,"['C(=O)COCCOCC(=O)', 'OCC(C)O', 'OCC(C)(C)C(C(C)C)O']","[1.0, 0.25, 0.75]",1
+132,"['C(=O)COCC(=O)', 'OCC(C)O', 'OCC(CC)(CC)CO']","[1.0, 0.45, 0.55]",1
+133,"['C(=O)COCC(=O)', 'OCC(C)O', 'OCC(C)OCC(C)O']","[1.0, 0.5, 0.5]",0
+134,"['C(=O)COCC(=O)', 'OCC(C)O', 'OCC(COc1ccccc1OC)O']","[1.0, 0.55, 0.45]",1
+135,"['C(=O)COCC(=O)', 'OCCO', 'OCC(CC)(CCCC)CO']","[1.0, 0.3, 0.7]",1
+136,"['C(=O)CCCC(=O)', 'OCCO', 'OC(C)COC(C)COC(C)CO']","[1.0, 0.45, 0.55]",1
+137,"['C(=O)CCCCCCCC(=O)', 'OCCO', 'OC(C)COC(C)COC(C)CO']","[1.0, 0.45, 0.55]",1
+138,"['C(=O)C(CC1)CCC1C(=O)', 'OCCO', 'OC(C)COC(C)COC(C)CO']","[1.0, 0.4, 0.6]",1
+139,"['C(=O)COCC(=O)', 'C(=O)CCCCCCCCC(=O)', 'OCCO']","[0.2, 0.8, 1.0]",1
+140,"['C(=O)CCCCCCCC(=O)', 'OCC(C)(C)CO', 'OCC(C)OCC(C)O']","[1.0, 0.5, 0.5]",1
+141,"['C(=O)CSCC(=O)', 'OCC(C)(C)CO', 'OCCOCCO']","[1.0, 0.5, 0.5]",1
+142,"['C(=O)CCCCCCC(=O)', 'OCC(C)(C)CO', 'OCC(C)OCC(C)O']","[1.0, 0.5, 0.5]",1
+143,"['C(=O)COCC(=O)', 'OCC(C)(C)CO', 'OCCCCCCCCO']","[1.0, 0.5, 0.5]",1
+144,"['C(=O)COCCOCC(=O)', 'OCC(C)(C)CO', 'OCC(C)OCC(C)O']","[1.0, 0.55, 0.45]",1
+145,"['C(=O)COCCOCC(=O)', 'OCC(C)(C)CO', 'OCCOCCOCCO']","[1.0, 0.45, 0.55]",1
+146,"['C(=O)COCCOCC(=O)', 'OCC(C)(C)CO', 'OCC(COc1ccccc1OC)O']","[1.0, 0.45, 0.55]",1
+147,"['C(=O)CSCC(=O)', 'C(=O)COCCOCC(=O)', 'OCC(C)(C)CO']","[0.55, 0.45, 1.0]",1
+148,"['C(=O)CCC(=O)', 'OCCCO', 'OCCOCCOCCO']","[1.0, 0.55, 0.45]",1
+149,"['C(=O)COCCOCC(=O)', 'OCCCO', 'OCCC(C)CCO']","[1.0, 0.5, 0.5]",1
+150,"['C(=O)COCC(=O)', 'C(=O)CSCC(=O)', 'OCCCO']","[0.5, 0.5, 1.0]",1
+151,"['C(=O)COCCOCC(=O)', 'C(=O)CCCCCCCCC(=O)', 'OCCCO']","[0.45, 0.55, 1.0]",1
+152,"['C(=O)CSCC(=O)', 'C(=O)COCCOCC(=O)', 'OCCCO']","[0.55, 0.45, 1.0]",1
+153,"['C(=O)COCC(=O)', 'OCCCCO', 'OCCCCCO']","[1.0, 0.5, 0.5]",1
+154,"['C(=O)COCC(=O)', 'C(=O)CCCCCCCC(=O)', 'OCCCCO']","[0.5, 0.5, 1.0]",1
+155,"['C(=O)CCCCCCC(=O)', 'C(=O)COCCOCC(=O)', 'OCCCCO']","[0.55, 0.45, 1.0]",1
+156,"['C(=O)CCCC(=O)', 'OCC(C)OCC(C)O', 'OCC(COc1ccccc1OC)O']","[1.0, 0.6, 0.4]",1
+157,"['C(=O)CCC(=O)', 'C(=O)COCC(=O)', 'OCCCCO']","[0.45, 0.55, 1.0]",1
+158,"['C(=O)CCCCCCC(=O)', 'OCC(C)OCC(C)O', 'OC(C)COC(C)COC(C)CO']","[1.0, 0.5, 0.5]",1
+159,"['C(=O)CCCC(=O)', 'OCC(C)OCC(C)O', 'OC(C)COC(C)COC(C)CO']","[1.0, 0.5, 0.5]",1
+160,"['C(=O)CCCCC(=O)', 'OCC(C)OCC(C)O', 'OC(CC1)CCC1O']","[1.0, 0.55, 0.45]",1
+161,"['C(=O)C(CC1)CCC1C(=O)', 'OCC(C)OCC(C)O', 'OCCCCCO']","[1.0, 0.35, 0.65]",1
+162,"['C(=O)CCCC(=O)', 'OCC(C)OCC(C)O', 'OCCOCCO']","[1.0, 0.5, 0.5]",1
+163,"['C(=O)CCCCCCCCC(=O)', 'OCC(C)(C)C(C(C)C)O', 'OC(C)COC(C)COC(C)CO']","[1.0, 0.3, 0.7]",1
+164,"['C(=O)CCCCCCC(=O)', 'OCC(C)OCC(C)O', 'OCC(CC1)CCC1CO']","[1.0, 0.45, 0.55]",1
+165,"['C(=O)COCC(=O)', 'C(=O)CCCCC(=O)', 'OCC(C)OCC(C)O']","[0.55, 0.45, 1.0]",1
+166,"['C(=O)CCCC(=O)', 'OCC(C)(C)C(C(C)C)O', 'OCCOCCOCCO']","[1.0, 0.45, 0.55]",1
+167,"['C(=O)COCC(=O)', 'OCC(C)(C)C(C(C)C)O', 'OCCC(C)CCO']","[1.0, 0.45, 0.55]",1
+168,"['C(=O)COCC(=O)', 'OCC(C)(C)C(C(C)C)O', 'OCC(CC)(CCCC)CO']","[1.0, 0.5, 0.5]",1
+169,"['C(=O)CCCC(=O)', 'C(=O)COCC(=O)', 'OCC(C)(C)C(C(C)C)O']","[0.5, 0.5, 1.0]",1
+170,"['C(=O)CCCCCCCC(=O)', 'OCC(CC)(CC)CO', 'OC(C)COC(C)COC(C)CO']","[1.0, 0.5, 0.5]",1
+171,"['C(=O)COCCOCC(=O)', 'OCC(CC)(CC)CO', 'OCC(CC1)CCC1CO']","[1.0, 0.5, 0.5]",1
+172,"['C(=O)COCC(=O)', 'OCC(CC)(CC)CO', 'OCC(CC)(CCCC)CO']","[1.0, 0.5, 0.5]",1
+173,"['C(=O)COCC(=O)', 'C(=O)CCCCCCCC(=O)', 'OCC(CC)(CC)CO']","[0.55, 0.45, 1.0]",1
+174,"['C(=O)COCC(=O)', 'C(=O)CCCCC(=O)', 'OCC(CC)(CC)CO']","[0.55, 0.45, 1.0]",1
+175,"['C(=O)COCCOCC(=O)', 'OCCCCCO', 'OCCCCCCCCCO']","[1.0, 0.5, 0.5]",1
+176,"['C(=O)COCC(=O)', 'OCCCCCO', 'OCCCCCCO']","[1.0, 0.5, 0.5]",1
+177,"['C(=O)COCC(=O)', 'OCCOCCO', 'OCC(CC)(CCCC)CO']","[1.0, 0.5, 0.5]",1
+178,"['C(=O)CCCCC(=O)', 'OCCCCCO', 'OCCOCCOCCO']","[1.0, 0.55, 0.45]",1
+179,"['C(=O)COCC(=O)', 'OCCCCCO', 'OCCOCCOCCO']","[1.0, 0.55, 0.45]",1
+180,"['C(=O)CCCC(=O)', 'C(=O)COCC(=O)', 'OCCCCCO']","[0.5, 0.5, 1.0]",1
+181,"['C(=O)CCC(=O)', 'OCCOCCO', 'Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O']","[1.0, 0.55, 0.45]",1
+182,"['C(=O)CCCCC(=O)', 'OCCOCCO', 'OCC(CC1)CCC1CO']","[1.0, 0.4, 0.6]",1
+183,"['C(=O)COCC(=O)', 'OCCOCCO', 'OCCCCCCCCO']","[1.0, 0.5, 0.5]",1
+184,"['C(=O)CCCCCCC(=O)', 'OCCOCCO', 'OCCCCCCCCCCO']","[1.0, 0.45, 0.55]",1
+185,"['C(=O)CCCCC(=O)', 'OCCOCCO', 'OCC(COc1ccccc1OC)O']","[1.0, 0.5, 0.5]",1
+186,"['C(=O)C(CC1)CCC1C(=O)', 'OCCOCCO', 'OCCCCCCCCO']","[1.0, 0.5, 0.5]",1
+187,"['C(=O)CCCC(=O)', 'C(=O)COCC(=O)', 'OCCOCCO']","[0.5, 0.5, 1.0]",1
+188,"['C(=O)COCCOCC(=O)', 'OCCCCCCO', 'OCCC(C)CCO']","[1.0, 0.5, 0.5]",1
+189,"['C(=O)CCC(=O)', 'OC(C)COC(C)COC(C)CO', 'Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O']","[1.0, 0.5, 0.5]",0
+190,"['C(=O)COCCOCC(=O)', 'OC(C)COC(C)COC(C)CO', 'OCCC(C)CCO']","[1.0, 0.45, 0.55]",1
+191,"['C(=O)CCCCCCC(=O)', 'OC(C)COC(C)COC(C)CO', 'OCCCCCCCCO']","[1.0, 0.35, 0.65]",1
+192,"['C(=O)CCC(=O)', 'C(=O)CSCC(=O)', 'OC(C)COC(C)COC(C)CO']","[0.35, 0.65, 1.0]",1
+193,"['C(=O)CSCC(=O)', 'OC(C)COC(C)COC(C)CO', 'OCC(CC1)CCC1CO']","[1.0, 0.8, 0.2]",1
+194,"['C(=O)C(CC1)CCC1C(=O)', 'OC(C)COC(C)COC(C)CO', 'Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O']","[1.0, 0.15, 0.85]",0
+195,"['C(=O)CCCCCCCC(=O)', 'OC(C)COC(C)COC(C)CO', 'OCCCCCCCCCCO']","[1.0, 0.4, 0.6]",1
+196,"['C(=O)CSCC(=O)', 'C(=O)CCCCCCCCC(=O)', 'OC(C)COC(C)COC(C)CO']","[0.3, 0.7, 1.0]",1
+197,"['C(=O)CCC(=O)', 'C(=O)CCCCCCCCC(=O)', 'OC(C)COC(C)COC(C)CO']","[0.5, 0.5, 1.0]",1
+198,"['C(=O)CCCCC(=O)', 'C(=O)CCCCCCC(=O)', 'OC(C)COC(C)COC(C)CO']","[0.5, 0.5, 1.0]",1
+199,"['C(=O)CCCCCCC(=O)', 'OCC(CC1)CCC1CO', 'OCCOCCOCCO']","[1.0, 0.6, 0.4]",1
+200,"['C(=O)COCCOCC(=O)', 'OCC(CC1)CCC1CO', 'OCC(CC)(CCCC)CO']","[1.0, 0.5, 0.5]",1
+201,"['C(=O)CCC(=O)', 'C(=O)COCC(=O)', 'OCC(CC1)CCC1CO']","[0.5, 0.5, 1.0]",1
+202,"['C(=O)CCCCCCC(=O)', 'C(=O)COCCOCC(=O)', 'OCC(CC1)CCC1CO']","[0.55, 0.45, 1.0]",1
+203,"['C(=O)CSCC(=O)', 'C(=O)CCCCCCCC(=O)', 'OCCOCCOCCO']","[0.5, 0.5, 1.0]",1
+204,"['C(=O)COCC(=O)', 'C(=O)CSCC(=O)', 'OCCOCCOCCO']","[0.5, 0.5, 1.0]",1
+205,"['C(=O)C(CC1)CCC1C(=O)', 'C(=O)CCCCCCCCC(=O)', 'OCCOCCOCCO']","[0.35, 0.65, 1.0]",1
+206,"['C(=O)COCC(=O)', 'C(=O)CSCC(=O)', 'OCCC(C)CCO']","[0.5, 0.5, 1.0]",1
+207,"['C(=O)COCC(=O)', 'OCCCCCCCCCO', 'OC(CC1)CCC1O']","[1.0, 0.55, 0.45]",1
+208,"['C(=O)COCCOCC(=O)', 'OCCOCCOCCO', 'OCCC(C)CCO']","[1.0, 0.45, 0.55]",1
+209,"['C(=O)COCCOCC(=O)', 'OCCC(C)CCO', 'OCC(CC)(CCCC)CO']","[1.0, 0.5, 0.5]",1
+210,"['C(=O)COCCOCC(=O)', 'OCCCCCCCCCO', 'OCC(CC)(CCCC)CO']","[1.0, 0.4, 0.6]",1
+211,"['C(=O)COCCOCC(=O)', 'OCCCCCCCCCO', 'OCC(COc1ccccc1OC)O']","[1.0, 0.75, 0.25]",1
+212,"['C(=O)CCCCCCC(=O)', 'C(=O)COCCOCC(=O)', 'OCCCCCCCCCO']","[0.55, 0.45, 1.0]",1
+213,"['C(=O)CCC(=O)', 'C(=O)COCCOCC(=O)', 'OC(CC1)CCC1O']","[0.5, 0.5, 1.0]",1
+214,"['C(=O)CCC(=O)', 'C(=O)COCC(=O)', 'OC(CC1)CCC1O']","[0.5, 0.5, 1.0]",1
+215,"['C(=O)CCCC(=O)', 'C(=O)COCCOCC(=O)', 'OC(CC1)CCC1O']","[0.5, 0.5, 1.0]",1
+216,"['C(=O)CCCC(=O)', 'C(=O)COCCOCC(=O)', 'OCCCCCCCCCCO']","[0.55, 0.45, 1.0]",1
+217,"['C(=O)COCC(=O)', 'OCC(COc1ccccc1OC)O', 'Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O']","[1.0, 0.65, 0.35]",1
+218,"['C(=O)COCC(=O)', 'C(=O)CCCCCCC(=O)', 'OCCCCCCCCCCO']","[0.5, 0.5, 1.0]",1
+219,"['C(=O)CCC(=O)', 'C(=O)COCC(=O)', 'OCCCCCCCCO']","[0.5, 0.5, 1.0]",1
+220,"['C(=O)COCC(=O)', 'C(=O)CCCCCCCC(=O)', 'OCCCCCCCCO']","[0.5, 0.5, 1.0]",1
+221,"['C(=O)CCCCCCC(=O)', 'C(=O)COCCOCC(=O)', 'OCCCCCCCCO']","[0.55, 0.45, 1.0]",1
+222,"['C(=O)COCC(=O)', 'C(=O)C(CC1)CCC1C(=O)', 'OCC(COc1ccccc1OC)O']","[0.5, 0.5, 1.0]",1
+223,"['C(=O)COCCOCC(=O)', 'C(=O)CCCCCCCC(=O)', 'Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O']","[0.45, 0.55, 1.0]",1
+224,"['C(=O)COCCOCC(=O)', 'C(=O)CCCCCCCCC(=O)', 'Oc1ccc(cc1)C(C)(C)c2ccc(cc2)O']","[0.45, 0.55, 1.0]",1
